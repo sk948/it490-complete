@@ -1,0 +1,13 @@
+[25-Mar-2019 01:58:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:58:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:58:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:58:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:59:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:59:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:59:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 02:04:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/html/490website/490_authsys/login_auth.php on line 10
+[25-Mar-2019 02:04:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/html/490website/490_authsys/login_auth.php on line 11
+[25-Mar-2019 02:04:32 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 02:04:39 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/html/490website/490_authsys/login_auth.php on line 10
+[25-Mar-2019 02:04:39 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/html/490website/490_authsys/login_auth.php on line 11
+[25-Mar-2019 02:04:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215

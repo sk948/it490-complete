@@ -1,0 +1,15 @@
+
+[25-Mar-2019 01:36:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+User: andre has logged in[25-Mar-2019 01:39:46 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+Login Failed: Username/Password Incorrect[25-Mar-2019 01:40:06 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+Login Failed: Username/Password Incorrect[25-Mar-2019 01:40:22 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+Login Failed: Username/Password Incorrect[25-Mar-2019 01:40:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+Login Successful: doritos7 has logged in[25-Mar-2019 01:44:55 America/New_York] PHP Warning:  fopen(register_auth.log): failed to open stream: Permission denied in /var/www/html/490website/490_authsys/register_auth.php on line 16
+[25-Mar-2019 01:45:04 America/New_York] PHP Warning:  fopen(register_auth.log): failed to open stream: Permission denied in /var/www/html/490website/490_authsys/register_auth.php on line 16
+[25-Mar-2019 01:46:12 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:46:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+[25-Mar-2019 01:47:47 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/490website/490_authsys/rabbitMQLib.inc on line 215
+
+Login Successful: andre has logged in
+Login Failed: Username/Password Incorrect
+Login Failed: Username/Password Incorrect
